@@ -10,3 +10,4 @@ Flask-RESTful provides the building blocks for creating a great REST API.
 
 You'll find the user guide and all documentation [here](https://flask-restful.readthedocs.io/)
 
+Flask resources include tutorials and tools, such as [Awesome Flask](https://github.com/mjhea0/awesome-flask)
